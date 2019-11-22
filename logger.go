@@ -233,8 +233,8 @@ func initColors() {
 		ErrorLevel:    colorString(Red),
 		WarningLevel:  colorString(Yellow),
 		NoticeLevel:   colorString(Green),
-		DebugLevel:    colorString(Cyan),
-		InfoLevel:     colorString(White),
+		InfoLevel:     colorString(Cyan),
+		DebugLevel:    colorString(White),
 	}
 }
 
